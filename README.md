@@ -1,2 +1,2 @@
-# work_C34
-work of class C34
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
